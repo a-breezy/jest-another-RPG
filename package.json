@@ -1,0 +1,22 @@
+{
+  "name": "pwd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-breezy/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-breezy/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/a-breezy/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
